@@ -2,5 +2,20 @@
     padding-top: 30vm;
     width: 200px;
     margin: auto;
-    text-align: center;;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper h1 {
+    font-size: 75px;
+    padding: 0;
+}
+
+.wrapper a {
+    text-decoration: none;
+    color: black;
+}
+
+.wrapper a:hover {
+    text-decoration: underline;
 }
